@@ -1,2 +1,1 @@
-# sgd_boosting
-Implementation of SGD &amp; Boosting
+# My implementation of SGD and Boosting
